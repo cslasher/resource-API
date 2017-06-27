@@ -1,0 +1,35 @@
+{
+  "name": "resource-api",
+  "version": "1.0.0",
+  "description": "An API structure for web logging authentication.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cslasher/resource-API.git"
+  },
+  "author": "Edwin L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cslasher/resource-API/issues"
+  },
+  "homepage": "https://github.com/cslasher/resource-API#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.29",
+    "mongoose": "^4.11.0",
+    "validator": "^7.1.0"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.4.2",
+    "nodemon": "^1.11.0",
+    "supertest": "^3.0.0"
+  }
+}
