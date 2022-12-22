@@ -20,7 +20,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "jsonwebtoken": "^7.4.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.19",
     "mongodb": "^3.1.13",
     "mongoose": "^5.7.5",
